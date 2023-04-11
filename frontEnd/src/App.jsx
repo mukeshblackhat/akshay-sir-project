@@ -113,13 +113,13 @@ function App() {
 
       {/* container 3 */}
       <div className="ctnr3">
-        <div className="subCtnr">
-           <div className="ctnr3Data">
+        <div className="subCtnr mobile">
+           <div className="ctnr3Data mobile">
             <div className="headingctnr3">It is the most advanced digital marketing and it company.</div>
             <div className="textctnr3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</div>
             <div className="buttonctnr3">Check it out →</div>
            </div>
-           <div className="ctnr3Pic">
+           <div className="ctnr3Pic mobile">
             <img src='https://bigspring-light-nextjs.vercel.app/_next/image?url=%2Fimages%2Fservice-slide-1.png&w=640&q=75'/>
            </div>
         </div>
@@ -127,12 +127,12 @@ function App() {
 
        {/* container 4 */}
        <div className="ctnr4">
-        <div className="subCtnr">
+        <div className="subCtnr mobile">
            
-           <div className="ctnr4Pic">
+           <div className="ctnr4Pic mobile">
             <img src='https://bigspring-light-nextjs.vercel.app/_next/image?url=%2Fimages%2Fservice-slide-1.png&w=640&q=75'/>
            </div>
-           <div className="ctnr4Data">
+           <div className="ctnr4Data mobile">
             <div className="headingctnr4">It is the most advanced digital marketing and it company.</div>
             <div className="textctnr4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</div>
             <div className="buttonctnr4">Check it out →</div>
@@ -142,13 +142,13 @@ function App() {
 
        {/* container 3 */}
        <div className="ctnr3">
-        <div className="subCtnr">
-           <div className="ctnr3Data">
+        <div className="subCtnr mobile">
+           <div className="ctnr3Data mobile">
             <div className="headingctnr3">It is the most advanced digital marketing and it company.</div>
             <div className="textctnr3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</div>
             <div className="buttonctnr3">Check it out →</div>
            </div>
-           <div className="ctnr3Pic">
+           <div className="ctnr3Pic mobile">
             <img src='https://bigspring-light-nextjs.vercel.app/_next/image?url=%2Fimages%2Fservice-slide-1.png&w=640&q=75'/>
            </div>
         </div>
@@ -156,12 +156,12 @@ function App() {
 
       {/* container 4 */}
       <div className="ctnr4">
-        <div className="subCtnr">
+        <div className="subCtnr mobile">
            
-           <div className="ctnr4Pic">
+           <div className="ctnr4Pic mobile">
             <img src='https://bigspring-light-nextjs.vercel.app/_next/image?url=%2Fimages%2Fservice-slide-1.png&w=640&q=75'/>
            </div>
-           <div className="ctnr4Data">
+           <div className="ctnr4Data mobile">
             <div className="headingctnr4">It is the most advanced digital marketing and it company.</div>
             <div className="textctnr4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.</div>
             <div className="buttonctnr4">Check it out →</div>
@@ -172,7 +172,7 @@ function App() {
 
       {/* container 7 */}
       <div className="ctnr7">
-        <div className="ctnr7heading">Experience the best workflow with us</div>
+        <div className="ctnr7heading mobile">Experience the best workflow with us</div>
         <div>
           <img  className="ctnr7Img"src={baseBanner} alt="banner"/>
         </div>
@@ -180,12 +180,12 @@ function App() {
 
       {/*  contianer 8*/}
       <div className="ctnr8">
-      <div className="subCtnr8">
+      <div className="subCtnr8 mobile">
            
-           <div className="ctnr8Pic">
+           <div className="ctnr8Pic mobile">
             <img src={bannerArt1}/>
            </div>
-           <div className="ctnr8Data">
+           <div className="ctnr8Data mobile">
             <div className="headingctnr8">Ready to get started?</div>
             <div className="textctnr8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.</div>
             <div className="buttonctnr8" >
