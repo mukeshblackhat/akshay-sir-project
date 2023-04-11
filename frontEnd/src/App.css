@@ -359,5 +359,11 @@ flex-direction: column;
     .subCtnr{
       flex-direction:column-reverse;
     }
+    .cardHolder2h{
+grid-template-columns: auto;
+    }
+    .mobile{
+      width:100%;
+    }
 
   }

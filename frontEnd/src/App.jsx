@@ -18,7 +18,7 @@ function App() {
 
       {/* container header */ }
        <div className="header">
-        <div className="headCtnr">
+        <div className="headCtnr mobile">
         <div className="cmpny">Company Name</div>
         <div className="getStarted">Get Started</div>
         </div>
@@ -27,7 +27,7 @@ function App() {
 
       {/* container 1 */}
       <div className="ctnr1h">
-         < div className="cntent1h">
+         < div className="cntent1h mobile">
           <div className="text1h">
           Let us solve your critical website
            development challenges
@@ -37,7 +37,7 @@ function App() {
           totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
           </div>
          </div>
-         <div className="img1h">
+         <div className="img1h mobile">
           <img  src={banner} alt="oops Banner missing"/>
 
          </div>
@@ -50,7 +50,7 @@ function App() {
             </div>
 
             
-            <div className="cardHolder2h">
+            <div className="cardHolder2h mobile">
 
             {/* clean code  */}
               <div className="servCardCC">
